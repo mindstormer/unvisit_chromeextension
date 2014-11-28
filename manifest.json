@@ -1,0 +1,15 @@
+{
+  "name": "Unvisit",
+  "version": "1.0",
+  "description": "Unvis.it Chrome extension.",
+  "background": {
+  	"scripts": ["unvis.js"]
+  	},
+  "permissions": [
+  "contextMenus"
+  ],
+  "icons": {
+  "16": "icon_small.png"
+  },
+  "manifest_version": 2
+}
