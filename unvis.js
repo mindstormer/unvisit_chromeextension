@@ -14,6 +14,6 @@ chrome.contextMenus.create({
       // Open the page up.
        chrome.tabs.create(
           {"url" : unvisItUrl });
-       console.log(unvisItUrl);
+       //console.log(unvisItUrl);
     }
   });
